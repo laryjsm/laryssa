@@ -11,4 +11,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-laryssajsm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laryssajsm@gmail.com)](mailto:laryssajsm@gmail.com)
 
-![Snake animation](https://github.com/laryjsm/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laryjsm/laryjsm/blob/output/github-contribution-grid-snake.svg)

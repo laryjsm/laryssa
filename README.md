@@ -9,6 +9,6 @@
 
 <h3> :earth_americas: &nbsp; Where find me: </h3> 
 
-[![Gmail Badge](https://img.shields.io/badge/-laryssajsm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laryssajsm@gmail.com)](mailto:laryssalmjs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-laryssalmjs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laryssalmjs@gmail.com)](mailto:laryssalmjs@gmail.com)
 
 ![Snake animation](https://github.com/laryjsm/laryjsm/blob/output/github-contribution-grid-snake.svg)
